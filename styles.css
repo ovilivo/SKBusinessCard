@@ -8,7 +8,7 @@ body {
     */
     font-family: Papyrus, Courier New, Courier, monospace;
     background-image: url("background.jpg");
-    background-size: 100%;
+    background-size: contain;
     background-color: brown;
 }
 
