@@ -5,7 +5,10 @@ body {
     Find a web safe font you like, and add it 
     to your card.
     */
-    font-family: Papyrus, Courier New, Courier, monospace
+    font-family: Papyrus, Courier New, Courier, monospace;
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-color: brown;
 }
 
 .avatar {
